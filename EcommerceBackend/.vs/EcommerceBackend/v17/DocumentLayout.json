@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\personal\\Ecommerce\\EcommerceBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\dtos\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\dtos\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\wishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\migrations\\20250601114854_seven-commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250601114854_seven-commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\migrations\\20250601103707_sixth-commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250601103707_sixth-commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\migrations\\20250531111050_five-commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\migrations\\20250531111050_five-commit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\controllers\\productcontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\productcontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|c:\\personal\\ecommerce\\ecommercebackend\\ecommercebackend\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92F06F-A9FE-417B-92C9-0524EEB00A10}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Services\\JwtService.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Services\\JwtService.cs",
+              "RelativeToolTip": "EcommerceBackend\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:00:53.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "EcommerceBackend\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:42:44.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Middlewares\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeToolTip": "EcommerceBackend\\Middlewares\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:33:14.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Services\\EmailService.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Services\\EmailService.cs",
+              "RelativeToolTip": "EcommerceBackend\\Services\\EmailService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswD8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:45:46.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\DTOs\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\DTOs\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\DTOs\\ResetPasswordDto.cs",
+              "RelativeToolTip": "EcommerceBackend\\DTOs\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:44:00.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\DTOs\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\DTOs\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\DTOs\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "EcommerceBackend\\DTOs\\ForgotPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:43:09.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250601114854_seven-commit.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Migrations\\20250601114854_seven-commit.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250601114854_seven-commit.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Migrations\\20250601114854_seven-commit.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250601114854_seven-commit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T11:48:54.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250601103707_sixth-commit.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Migrations\\20250601103707_sixth-commit.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250601103707_sixth-commit.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Migrations\\20250601103707_sixth-commit.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250601103707_sixth-commit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:37:07.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T18:43:41.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "EcommerceBackend\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T13:31:22.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Program.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Program.cs",
+              "RelativeToolTip": "EcommerceBackend\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAASwE4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:11:15.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250531111050_five-commit.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Migrations\\20250531111050_five-commit.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Migrations\\20250531111050_five-commit.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Migrations\\20250531111050_five-commit.cs",
+              "RelativeToolTip": "EcommerceBackend\\Migrations\\20250531111050_five-commit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T11:10:50.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAEwCsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:57:56.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\DTOs\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\DTOs\\ReviewDto.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\DTOs\\ReviewDto.cs",
+              "RelativeToolTip": "EcommerceBackend\\DTOs\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:56:26.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\DataContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\DataContext\\AppDbContext.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\DataContext\\AppDbContext.cs",
+              "RelativeToolTip": "EcommerceBackend\\DataContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:37:18.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WishlistController.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\WishlistController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\WishlistController.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\WishlistController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\WishlistController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAASwDcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T04:14:45.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Entities\\Order.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Entities\\Order.cs",
+              "RelativeToolTip": "EcommerceBackend\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:57:15.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Entities\\Review.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Entities\\Review.cs",
+              "RelativeToolTip": "EcommerceBackend\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:37:39.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Entities\\User.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Entities\\User.cs",
+              "RelativeToolTip": "EcommerceBackend\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:32:02.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Entities\\CartItem.cs",
+              "RelativeToolTip": "EcommerceBackend\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:16:48.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Entities\\Address.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Entities\\Address.cs",
+              "RelativeToolTip": "EcommerceBackend\\Entities\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:18:00.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Entities\\Product.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Entities\\Product.cs",
+              "RelativeToolTip": "EcommerceBackend\\Entities\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:05:54.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductControlller.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\ProductControlller.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\ProductControlller.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\ProductControlller.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\ProductControlller.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwIgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:05:50.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\CartController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:16:26.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\personal\\Ecommerce\\EcommerceBackend\\EcommerceBackend\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:03:08.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

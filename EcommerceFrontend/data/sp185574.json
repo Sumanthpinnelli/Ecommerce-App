@@ -1,0 +1,31 @@
+[
+  {
+    "name": "DataManagers",
+    "Wizards": "https://seps-wizards.paymentslab.ncr.com/DataManager/Login.aspx",
+    "Skywalkers": "https://seps-skywalkers.paymentslab.ncr.com/DataManager/Login.aspx",
+    "hello": "hi",
+    "hoyt": "kuit",
+    "koiy": "koiy",
+    "lokiy": "lokithgrt",
+    "lik": "joi"
+  },
+  {
+    "name": "Webclients",
+    "wizards": "https://seps-wizards.paymentslab.ncr.com/ServerEps/Login.aspx",
+    "skywalkers": "https://seps-skywalkers.paymentslab.ncr.com/ServerEps/Login.aspx",
+    "hello": "hi"
+  },
+  {
+    "name": "hello",
+    "hi": "hello"
+  },
+  {
+    "name": "hello"
+  },
+  {
+    "name": "king"
+  },
+  {
+    "name": "mjkilom"
+  }
+]

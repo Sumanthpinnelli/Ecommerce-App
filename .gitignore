@@ -1,0 +1,11 @@
+# Secrets
+.env
+appsettings.json
+
+bin/
+obj/
+*.log
+
+node_modules/
+
+.vscode/
